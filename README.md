@@ -4,4 +4,4 @@ This notebook contains thought processes and workflow about entity extraction. *
 
 I also introduce the spaCy NLP library, which has powerful, but easy-to-use models for specific NLP tasks like parts of speech tagging, named entity recognition, sentiment analysis, and more. I hope to add more to this repo and learn more tools to do more entity extraction. Please feel free to take a look at what's in this repository.
 
-- Andrew
+-- Andrew
